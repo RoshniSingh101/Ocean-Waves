@@ -1,0 +1,96 @@
+/* CSS files add styling rules to your content */
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  background-color: #f5ffd5;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+body {
+ background-color:#84D2F6; 
+  text-align: center;
+}
+/* Add  a background color */
+
+h1 {
+  color: #f5ffd5;
+  font-size: 3em;
+  font-family: "Comic Sans", sans-serif;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+p {
+  color: #133C55;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.free {
+  color: #143f55;
+}
+
+img {
+  text-align: center;
+  border-radius: 20%;
+  border:3px solid #386FA4;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#wave {
+  border-radius: 25%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+ 
+}
+
+ul {
+  list-style-type: none;
+  background-color: #133C55;
+  overflow: hidden;
+  padding: 1em;
+}
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font: size; 1.3em;
+  padding: 1em;
+}
+
+  a {
+  text-decoration: underline;
+  color: #133C55;
+  font-size: 1.3em;
+  padding: 1em;
+  font-family: "Roboto", sans-serif;
+  }
+
+  .pix {
+    text-decoration: underline
+    font-size: 30px;
+  }
+
+  li a:hover {
+    background-color: #386FA4
+  }
